@@ -1,0 +1,12 @@
+{
+  "name": "comolatti-sales-orchestrator",
+  "version": "1.0.0",
+  "description": "Enterprise B2B Sales Orchestrator",
+  "private": true,
+  "scripts": {
+    "start": "nest start",
+    "start:dev": "nest start --watch",
+    "build": "nest build",
+    "test": "jest"
+  }
+}

@@ -63,6 +63,7 @@ Responsavel pela consulta de produtos.
 * Upload de Excel
 * Upload de PDF
 * Normalizacao de catalogo
+* input via foto
 
 ---
 
